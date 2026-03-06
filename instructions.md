@@ -8,7 +8,7 @@ git clone https://github.com/AdrielFoppa/Animal-Classification.git
 cd Animal-Classification
 ```
 
-### 4️⃣ Baixar o dataset
+### 2️⃣ Baixar o dataset
 
 O dataset não está incluído no repositório devido ao tamanho.
 
@@ -20,7 +20,7 @@ Após baixar:
 - Renomeie a pasta para raw-img 
 - Coloque a pasta dentro do diretório do projeto
 
-### 5️⃣ Estrutura esperada
+### 3️⃣ Estrutura esperada
 
 ```
 Animal-Classification/
@@ -57,7 +57,7 @@ Animal-Classification/
 └── README.md
 ```
 
-### 6️⃣ Executar o notebook
+### 4️⃣ Executar o notebook
 
 jupyter notebook
 
