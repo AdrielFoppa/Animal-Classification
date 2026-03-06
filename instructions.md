@@ -52,6 +52,7 @@ Animal-Classification/
 │   ├── spider.avif
 │   └── squirrel.jpg
 │
+├── instructions.md
 ├── model_structure.ipynb
 └── README.md
 ```
