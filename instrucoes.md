@@ -26,7 +26,13 @@ Animal-Classification/
 │
 ├── raw-img/
 │   ├── cane/
+│   │   ├── img1.jpg
+│   │   ├── img2.jpg
+│   │   └── ...
 │   ├── cavallo/
+│   │   ├── img1.jpg
+│   │   ├── img2.jpg
+│   │   └── ...
 │   ├── gatto/
 │   ├── mucca/
 │   ├── pecora/
@@ -35,9 +41,20 @@ Animal-Classification/
 │   ├── ragno/
 │   └── scoiattolo/
 │
+├── some_tests/
+│   ├── butterfly.png
+│   ├── cat.png
+│   ├── cow.jpg
+│   ├── elephant.jpg
+│   ├── horse.jpg
+│   ├── sheep.webp
+│   ├── spider.avif
+│   └── squirrel.jpg
+│
 ├── model_structure.ipynb
 └── README.md
 ```
+
 ### 6️⃣ Executar o notebook
 
 jupyter notebook
