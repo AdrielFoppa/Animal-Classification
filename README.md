@@ -18,14 +18,23 @@ CNN sequencial com 4 blocos convolucionais (32 → 64 → 128 → 256 filtros), 
 ## 📈 Resultado
 - **Acurácia final: 88.25%**
 
-## Como recriar 🚀
+## 🚀 Como recriar 
 [Instruções](iunstrucoes.md)
 
-## 🚀 Como usar
+## 📦 Modelo pré-treinado
+
+Para testar o modelo sem realizar todo o treinamento:
+
+1. Baixe o arquivo do modelo no link do Google Drive disponibilizado abaixo.
+2. Coloque o arquivo na pasta do projeto.
+3. Importe o modelo .
 ```python
 from tensorflow.keras.models import load_model
 model = load_model('animal_classification.keras')
 ```
+Link: *(https://drive.google.com/drive/folders/1rAkve9TghpDNLWtzZ5XNOKDRj3uksO68?usp=drive_link)*
+
+
 
 ## 🛠️ Tecnologias
 `Python` `TensorFlow` `Keras` `Matplotlib` `NumPy`
