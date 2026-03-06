@@ -19,7 +19,7 @@ CNN sequencial com 4 blocos convolucionais (32 → 64 → 128 → 256 filtros), 
 - **Acurácia final: 88.25%**
 
 ## 🚀 Como recriar 
-[Instruções](iunstrucoes.md)
+[Instruções](instrucoes.md)
 
 ## 📦 Modelo pré-treinado
 
