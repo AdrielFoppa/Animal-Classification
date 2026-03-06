@@ -13,10 +13,13 @@ CNN sequencial com 4 blocos convolucionais (32 → 64 → 128 → 256 filtros), 
 - Data Augmentation (rotação, flip, zoom, deslocamento)
 - Pipeline eficiente com `ImageDataGenerator` (sem carregar tudo na RAM)
 - EarlyStopping e ReduceLROnPlateau
-- Treinamento em 44 épocas
+- Treinamento em 50 épocas
 
 ## 📈 Resultado
-- **Acurácia final: 85%**
+- **Acurácia final: 88.25%**
+
+## Como recriar 🚀
+[Instruções](iunstrucoes.md)
 
 ## 🚀 Como usar
 ```python
